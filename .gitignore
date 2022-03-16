@@ -35,3 +35,10 @@ yarn-error.log*
 
 # generated data
 /.contents
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
